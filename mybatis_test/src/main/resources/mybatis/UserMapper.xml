@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.tonny.dao.UserDao">
+
+    <resultMap type="com.tonny.po.User" id="user_result_map">
+        <id column="id" property="id"/>
+        <result column="name" property="name"/>
+        <result column="passwd" property="passwd"/>
+        <result column="createTime" property="createTime" />
+        <result column="status" property="status" javaType="java.lang.Boolean"/>
+    </resultMap>
+
+    <select id="selectById" resultMap="user_result_map">
+        select id, name, passwd, createTime , status from user where id = #{id}
+    </select>
+</mapper>
