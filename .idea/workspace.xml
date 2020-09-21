@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="458db963-ee1f-413f-a89d-16199710559a" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="458db963-ee1f-413f-a89d-16199710559a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootdemo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/mapper/CityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/test/java/com/lsq/demo/mapper/CityMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/service/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/HttpRequestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/TestingWebApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/WebLayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/WebLayerTestWithService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/jdk8/repidbook/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/mapper/CityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/test/java/com/lsq/demo/mapper/CityMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/mapper/CityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/resources/mapper/CityMapper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/test/java/com/lsq/demo/mapper/CityMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/JavaBase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/JavaBase.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/cover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/algs/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/algs/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/jdk8/action/lambda/FunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/jdk8/action/lambda/FunctionInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/jdk8/repidbook/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/jvm/INTERN.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/jvm/INTERN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/AddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/BanInsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/BanInsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/RapidSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/RapidSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBase/src/lib/algs4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/lib/algs4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/kafka-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/kafka-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/ConsumerRebalanceListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/ConsumerRebalanceListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/ConsumerSpecialOffset.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/ConsumerSpecialOffset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/Producer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,60 +130,42 @@
       </map>
     </option>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1983261443">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-          <entry key="md" value="2" />
-          <entry key="png" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="1" />
-          <entry key="JAVA" value="2" />
-          <entry key="Markdown" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaBase/src/com/tonny/jdk8/repidbook/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/mybatis_test">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven\localRepository" />
-        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.3.9" />
         <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -76,12 +173,16 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
+  <component name="ProjectId" id="1hl6GQ77UmodIExpO7EB1P9nCgX" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -182,61 +283,47 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaBase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lsq.demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\personal\code\JavaTest" />
+      <recent name="D:\personal\code\JavaTest\boottest-demo" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
+  <component name="RunManager" selected="JUnit.CityMapperTest.findByNameTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -244,13 +331,121 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
+    <configuration name="BootdemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boottest-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsq.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lsq.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.lsq.demo.BootdemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CityMapperTest.findByNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-annotation-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsq.demo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lsq.demo.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.lsq.demo.mapper.CityMapperTest" />
+      <option name="METHOD_NAME" value="findByNameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpRequestTest.greetingShouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boottest-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsq.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lsq.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.lsq.demo.HttpRequestTest" />
+      <option name="METHOD_NAME" value="greetingShouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingWebApplicationTest.shouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="boottest-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsq.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lsq.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.lsq.demo.TestingWebApplicationTest" />
+      <option name="METHOD_NAME" value="shouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootdemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-annotation-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsq.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsq.demo.BootdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bootdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lsq.demo.BootdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CityMapperTest.findByNameTest" />
+        <item itemvalue="Spring Boot.BootdemoApplication (1)" />
+        <item itemvalue="JUnit.TestingWebApplicationTest.shouldReturnDefaultMessage" />
+        <item itemvalue="JUnit.HttpRequestTest.greetingShouldReturnDefaultMessage" />
+        <item itemvalue="JUnit.BootdemoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
     <option name="myEncoding" value="UTF-8" />
     <option name="myConnectionType" value="NONE" />
@@ -269,104 +464,85 @@
       <workItem from="1545052974756" duration="7000" />
       <workItem from="1551171712370" duration="673000" />
       <workItem from="1551242720933" duration="310000" />
+      <workItem from="1600573239552" duration="13540000" />
+      <workItem from="1600654496796" duration="154000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="990000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaBase/cover.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaBase/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaBase/src/com/tonny/jvm/INTERN.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaBase/src/com/tonny/jdk8/repidbook/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="760" y="279" key="#Project_Structure" timestamp="1600574422556">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="760" y="279" key="#Project_Structure/0.0.2560.1410@0.0.2560.1410" timestamp="1600574422556" />
+    <state x="1009" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600591654445">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1009" y="505" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1410@0.0.2560.1410" timestamp="1600591654445" />
+    <state x="1085" y="388" key="#com.intellij.ide.util.MemberChooser" timestamp="1600575423593">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1085" y="388" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1410@0.0.2560.1410" timestamp="1600575423593" />
+    <state width="2517" height="710" key="GridCell.Tab.0.bottom" timestamp="1600634878605">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="710" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878605" />
+    <state width="2517" height="710" key="GridCell.Tab.0.center" timestamp="1600634878605">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="710" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878605" />
+    <state width="2517" height="710" key="GridCell.Tab.0.left" timestamp="1600634878605">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="710" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878605" />
+    <state width="2517" height="710" key="GridCell.Tab.0.right" timestamp="1600634878605">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="710" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878605" />
+    <state width="2517" height="432" key="GridCell.Tab.1.bottom" timestamp="1600634878594">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.1.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878594" />
+    <state width="2517" height="432" key="GridCell.Tab.1.center" timestamp="1600634878594">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.1.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878594" />
+    <state width="2517" height="432" key="GridCell.Tab.1.left" timestamp="1600634878594">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.1.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878594" />
+    <state width="2517" height="432" key="GridCell.Tab.1.right" timestamp="1600634878594">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.1.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878594" />
+    <state width="2517" height="432" key="GridCell.Tab.2.bottom" timestamp="1600634878595">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.2.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878595" />
+    <state width="2517" height="432" key="GridCell.Tab.2.center" timestamp="1600634878595">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.2.center/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878595" />
+    <state width="2517" height="432" key="GridCell.Tab.2.left" timestamp="1600634878595">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.2.left/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878595" />
+    <state width="2517" height="432" key="GridCell.Tab.2.right" timestamp="1600634878595">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="432" key="GridCell.Tab.2.right/0.0.2560.1410@0.0.2560.1410" timestamp="1600634878595" />
+    <state x="913" y="365" key="new project wizard" timestamp="1600573924080">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="913" y="365" key="new project wizard/0.0.2560.1410@0.0.2560.1410" timestamp="1600573924080" />
+    <state x="936" y="333" key="run.anything.popup" timestamp="1600574786774">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="936" y="333" key="run.anything.popup/0.0.2560.1410@0.0.2560.1410" timestamp="1600574786774" />
   </component>
 </project>
