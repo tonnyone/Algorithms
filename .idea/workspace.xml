@@ -5,118 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="458db963-ee1f-413f-a89d-16199710559a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootdemo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/mapper/CityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/java/com/lsq/demo/model/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/mybatis-xml-demo/src/test/java/com/lsq/demo/mapper/CityMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/controller/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/java/com/lsq/demo/service/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/HttpRequestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/TestingWebApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/WebLayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boottest-demo/src/test/java/com/lsq/demo/WebLayerTestWithService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/jdk8/repidbook/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/mapper/CityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/java/com/lsq/demo/model/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-annotation-demo/src/test/java/com/lsq/demo/mapper/CityMapperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/BootdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/mapper/CityMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/java/com/lsq/demo/model/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/main/resources/mapper/CityMapper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/test/java/com/lsq/demo/BootdemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-xml-demo/src/test/java/com/lsq/demo/mapper/CityMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/JavaBase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/JavaBase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/cover.png" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/cover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/algs/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/algs/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/jdk8/action/lambda/FunctionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/jdk8/action/lambda/FunctionInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/jdk8/repidbook/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/jvm/INTERN.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/jvm/INTERN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/AddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/AddTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/BanInsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/BanInsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/RapidSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/RapidSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/com/tonny/sort/test_1_1/Test_1_1_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/com/tonny/sort/test_1_1/Test_1_1_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBase/src/lib/algs4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/javabase-demo/src/lib/algs4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/kafka-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/kafka-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/ConsumerRebalanceListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/ConsumerRebalanceListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/ConsumerSpecialOffset.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/ConsumerSpecialOffset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-test/src/main/java/com/lsq/kafka/primary/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/lsq/kafka/primary/Producer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,6 +189,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -465,7 +357,7 @@
       <workItem from="1551171712370" duration="673000" />
       <workItem from="1551242720933" duration="310000" />
       <workItem from="1600573239552" duration="13540000" />
-      <workItem from="1600654496796" duration="154000" />
+      <workItem from="1600654496796" duration="1034000" />
     </task>
     <servers />
   </component>
