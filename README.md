@@ -1,6 +1,6 @@
 ### java 基础算法练习
-JavaBase
+javabase
 
 ### mybatis 例子
-mybatis_test
+mybatis-*
 
