@@ -1,9 +1,0 @@
-2020-09-22 23:18:08 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
-select * from city where id = ? [42102-200]
-2020-09-22 23:32:05 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
-select * from city where id = ? [42102-200]
-2020-09-22 23:34:58 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
-select * from city where id = ? [42102-200]
