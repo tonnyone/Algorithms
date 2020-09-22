@@ -1,0 +1,30 @@
+2020-09-22 23:35:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from city where id = ? [42102-200]
+2020-09-22 23:38:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from city where id = ? [42102-200]
+2020-09-22 23:42:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from city where id = ? [42102-200]
+2020-09-22 23:43:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
+2020-09-22 23:53:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
+2020-09-22 23:55:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
+2020-09-22 23:55:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
+2020-09-22 23:57:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
+2020-09-23 00:00:07 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
+2020-09-23 00:03:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CITY" not found; SQL statement:
+select * from CITY where id = ? [42102-200]
