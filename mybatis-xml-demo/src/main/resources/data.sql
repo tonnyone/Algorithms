@@ -2,4 +2,4 @@ drop table if exists city;
 
 create table city (id int primary key auto_increment, name varchar);
 
-insert into city (name) values ('San Francisco');
+insert into city (name) values ('旧金山');
