@@ -3,18 +3,65 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.lsq.demo.mapper.CityMapper">
 
+    <!-- 主键使用数据库自动生成 -->
+    <!-- 增 -->
     <insert id="insert" parameterType="City" useGeneratedKeys="true" keyProperty="id">
-        insert into city (name)
-         values (#{name})
+        insert into city (name, type, insert_time) values (#{name},#{type},#{insertTime})
     </insert>
 
-    <delete id="deleteById" parameterType="Long" >
+    <!--删-->
+    <delete id="deleteById" parameterType="Long">
         delete from city where id = (#{id})
     </delete>
 
+    <!--改-->
+    <update id="updateById" parameterType="City" useGeneratedKeys="true" keyProperty="id">
+        update city set name = #{name},type =#{type}, insert_time=#{insertTime} where id=#{id}
+    </update>
+
+    <!--查-->
     <select id="findByName" resultType="City">
-        select id, name from city where name = #{name}
+        select id, name, type, insert_time from city where name = #{name}
     </select>
+
+    <!--查询总数-->
+    <select id="count" resultType="Integer">
+        select count(*) from city
+    </select>
+
+    <!-- 批量新增 -->
+    <insert id="insertBatch" parameterType="List" useGeneratedKeys="true" keyProperty="id">
+        insert into city (name, type, insert_time) values
+        <foreach collection="cites" item="item" separator=",">
+            (#{item.name},#{item.type},#{item.insertTime})
+        </foreach>
+    </insert>
+
+    <!-- 重用sql语句块 -->
+    <sql id="cityColumns"> ${alias}.id,${alias}.name,${alias}.type,${alias}.insert_time </sql>
+    <select id="findById" resultType="City">
+        select
+        <include refid="cityColumns">
+            <property name="alias" value="c"/>
+        </include>
+        from city c where id = #{id}
+    </select>
+
+    <!--使用map作为resultType-->
+    <select id="findMapById" resultType="map">
+        select
+        <include refid="cityColumns">
+            <property name="alias" value="c"/>
+        </include>
+        from city c where id = #{id}
+    </select>
+
+    <!--全部删-->
+    <delete id="deleteAll">
+        delete from city
+    </delete>
+
+
 
 
 

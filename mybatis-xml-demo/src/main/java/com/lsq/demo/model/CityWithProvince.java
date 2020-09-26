@@ -2,12 +2,13 @@ package com.lsq.demo.model;
 
 import java.util.Date;
 
-public class City {
+public class CityWithProvince {
 
     private Long id;
     private String name;
-    private CityTypeEnum type;
+    private CityTypeEnum region;
     private Date insertTime;
+    private Long provinceId;
 
     public Long getId() {
         return id;
@@ -25,12 +26,12 @@ public class City {
         this.name = name;
     }
 
-    public CityTypeEnum getType() {
-        return type;
+    public CityTypeEnum getRegion() {
+        return region;
     }
 
-    public void setType(CityTypeEnum type) {
-        this.type = type;
+    public void setRegion(CityTypeEnum region) {
+        this.region = region;
     }
 
     public Date getInsertTime() {
@@ -39,5 +40,13 @@ public class City {
 
     public void setInsertTime(Date insertTime) {
         this.insertTime = insertTime;
+    }
+
+    public Long getProvinceId() {
+        return provinceId;
+    }
+
+    public void setProvinceId(Long provinceId) {
+        this.provinceId = provinceId;
     }
 }

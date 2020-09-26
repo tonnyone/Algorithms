@@ -1,0 +1,12 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lsq.demo.mapper.CityWityProvinceMapper">
+
+    <!-- 主键使用数据库自动生成 -->
+    <!-- 增 -->
+    <insert id="insert" parameterType="City" useGeneratedKeys="true" keyProperty="id">
+        insert into city (name, region, insert_time) values (#{name},#{region},#{insertTime})
+    </insert>
+
+</mapper>
